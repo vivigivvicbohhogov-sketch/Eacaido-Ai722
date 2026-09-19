@@ -1,0 +1,6 @@
+{
+  "name": "Escaido AI",
+  "description": "Professional AI Video and Image Generation Platform with Access Code Security and Admin Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
